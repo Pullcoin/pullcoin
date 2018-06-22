@@ -1,0 +1,9 @@
+Building Pullcoin
+
+See doc/readme-qt.rst for instructions on building Pullcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pullcoin.
+
+See doc/build-*.txt for instructions on building pullcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pullcoin.
